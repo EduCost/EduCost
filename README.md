@@ -4,11 +4,9 @@
 
 - I ❤️ FOSS
 
-- Let's connect:  <a href="https://www.linkedin.com/in/edu-costa-dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24px"/>
-</a>
+- Let's connect: [LinkedIn](https://www.linkedin.com/in/edu-costa-dev)
+  
 
-<br>
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Kotlin" width="40px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/kotlin/original.svg"></img>
